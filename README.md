@@ -6,15 +6,16 @@
 🔹 Desenvolvendo aplicações em Python e explorando Machine Learning  <br>
 🔹 Apaixonado por dados, futebol e computação  <br>
 
+
 ## Sobre Mim  
 🎓 Cientista e Engenheiro de Dados formado pela PUC-Rio <br>
-🚀 Trabalhando em projetos de Machine Learning e reconhecimento de imagens e análise de padrões em vídeo utilizando scikit-learn, YOLO, matplotlib, OpenCV e seaborn <br>
-💼 Atualmente trabalho como Assessor de Planejamento Estratégico na Casa Civil do Estado do Rio de Janeiro <br>
+💼 Assessor de Planejamento Estratégico na Casa Civil do Estado do Rio de Janeiro <br>
+🚀 Trabalhando em projetos de Machine Learning, reconhecimento de imagens e análise de padrões em vídeo utilizando scikit-learn, YOLO, matplotlib, OpenCV e seaborn <br>
 📊 Montando apresentações em PowerBI e HTML, utilizando SQL, Excel, Google Sheets <br>
 ⚽ Explorando dados do futebol para entender métricas de desempenho, estratégias e padrões de movimentação em bloco <br>
 
 ![Apresentação do Projeto](https://github.com/jpedrocf/images-gifs/blob/main/ImoveisCurriculo.gif) <br>
-_Apresentação em HTML, sobre o patrimônio do Estado, para tomada de decisão (2025)_
+_Apresentação interativa em HTML sobre o patrimônio imobiliário do Estado, com foco na análise e visualização para apoio à tomada de decisões estratégicas (2025)_
 
 
 ## Vamos nos conectar?  
