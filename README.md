@@ -18,6 +18,15 @@
 ![Apresentação do Projeto](https://github.com/jpedrocf/images-gifs/blob/main/ImoveisCurriculo.gif) <br>
 _Apresentação interativa em HTML sobre o patrimônio imobiliário do Estado, com foco na análise e visualização para apoio à tomada de decisões estratégicas (2025)_
 
+## Projetos em Destaque 🚀  
+ 
+- [🎮 Comparative Analysis of AAA and Indie Game Publishers on Steam for 2024 Releases](https://github.com/jpedrocf/Data-Analysis-AAA-x-Indie-Publishers)  
+  *Análise exploratória sobre a performance de distribuidoras AAA vs Indie.*
+- [⚽ Premier League 23/24 Tierlist of Offensive Players](https://github.com/jpedrocf/Machine-Learning-Premier-League-23-24-Performance)  
+  *Treinamento de um modelo capaz de analisar métricas e determinar o Tier dos jogadores da Premier League.*
+- [♖ Evolution of Modern Indian Chess - Medallion Architecture](https://github.com/jpedrocf/Data-Engineering-Indian-Chess)  
+  *Estudo focado em captar, tratar e armazenar dados de diferentes fontes, para posterior análise.*     
+
 
 ## Vamos nos conectar?  
 📧 Email: jpedrouerj@gmail.com  
