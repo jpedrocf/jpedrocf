@@ -1,10 +1,10 @@
 # Olá, eu sou João Pedro Faria! 👋  
 
 🔹 Cientista de Dados | Pós-graduação em Analytics, Data Engineering and Machine Learning pela PUC-Rio <br>
-🔹 Perfil analítico e estratégico
-🔹 Desenvolvendo Dashboards e contando histórias com dados 
-🔹 Desenvolvendo aplicações em Python e explorando Machine Learning  
-🔹 Apaixonado por dados, futebol e computação  
+🔹 Perfil analítico e estratégico <br>
+🔹 Desenvolvendo Dashboards e contando histórias com dados <br>
+🔹 Desenvolvendo aplicações em Python e explorando Machine Learning  <br>
+🔹 Apaixonado por dados, futebol e computação  <br>
 <!--
 **jpedrocf/jpedrocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
