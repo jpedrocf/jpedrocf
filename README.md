@@ -1,5 +1,10 @@
-# Olá, eu sou João Pedro! 👋  
+# Olá, eu sou João Pedro Faria! 👋  
 
+🔹 Cientista de Dados | Pós-graduação em Analytics, Data Engineering and Machine Learning pela PUC-Rio
+🔹 Perfil analítico e estratégico
+🔹 Apaixonado por dados, futebol e computação  
+🔹 Desenvolvendo aplicações em Python e explorando Machine Learning  
+🔹 Apaixonado por dados, futebol e computação  
 <!--
 **jpedrocf/jpedrocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
