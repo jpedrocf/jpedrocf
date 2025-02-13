@@ -24,7 +24,7 @@ _Apresentação interativa em HTML sobre o patrimônio imobiliário do Estado, c
   *Análise exploratória sobre a performance de distribuidoras AAA vs Indie.*
 - [⚽ Premier League 23/24 Tierlist of Offensive Players](https://github.com/jpedrocf/Machine-Learning-Premier-League-23-24-Performance)  
   *Treinamento de um modelo capaz de analisar métricas e determinar o Tier dos jogadores da Premier League.*
-- [♖ Evolution of Modern Indian Chess - Medallion Architecture](https://github.com/jpedrocf/Data-Engineering-Indian-Chess)  
+- [♟️ Evolution of Modern Indian Chess - Medallion Architecture](https://github.com/jpedrocf/Data-Engineering-Indian-Chess)  
   *Estudo focado em captar, tratar e armazenar dados de diferentes fontes, para posterior análise.*     
 
 
