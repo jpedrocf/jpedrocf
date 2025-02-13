@@ -6,8 +6,7 @@
 🔹 Desenvolvendo aplicações em Python e explorando Machine Learning  <br>
 🔹 Apaixonado por dados, futebol e computação  <br>
 
-<img src="https://github.com/user-attachments/assets/5af89553-eac8-4649-8817-f177399fe1f1" width="500" /> <br>
-_Gráfico criativo que utilizei para exemplificar a discrepância de jogos AAA x Indie no mercado de games_
+
 
 ## Sobre Mim  
 🎓 Cientista e Engenheiro de Dados formado pela PUC-Rio <br>
@@ -19,6 +18,8 @@ _Gráfico criativo que utilizei para exemplificar a discrepância de jogos AAA x
 ![Apresentação do Projeto](https://github.com/jpedrocf/images-gifs/blob/main/ImoveisCurriculo.gif) <br>
 _Apresentação interativa em HTML sobre o patrimônio imobiliário do Estado, com foco na análise e visualização para apoio à tomada de decisões estratégicas (2025)_
 
+<img src="https://github.com/user-attachments/assets/5af89553-eac8-4649-8817-f177399fe1f1" width="500" height="450" /> <br>
+_Gráfico criativo que utilizei para exemplificar a discrepância de jogos AAA x Indie no mercado de games (a cada 100, 4 são AAA)_
 
 ## Vamos nos conectar?  
 📧 Email: jpedrouerj@gmail.com  
