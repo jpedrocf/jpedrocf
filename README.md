@@ -12,6 +12,9 @@
 📊 Montando apresentações em PowerBI e HTML, utilizando SQL, Excel, Google Sheets <br>
 ⚽ Explorando dados do futebol para entender métricas de desempenho, estratégias e padrões de movimentação em bloco <br>
 
+![Apresentação do Projeto](https://github.com/jpedrocf/images-gifs/blob/main/ImoveisCurriculo.gif)
+_Apresentação de Imóveis do Patrimônio do Estado do RJ, apresentado ao Governador (2025)_
+
 
 ## Vamos nos conectar?  
 📧 Email: jpedrouerj@gmail.com  
