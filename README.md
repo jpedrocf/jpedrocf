@@ -7,7 +7,7 @@
 🔹 Apaixonado por dados, futebol e computação  <br>
 
 ## Sobre Mim  
-🎓 Cientista e Engenheiro de Dados formado pela PUC-Rio, atualmente envolvido em projetos Python, utilizando YOLO, matplotlib e OpenCV (cv2) para reconhecimento de imagens e análise de padrões em vídeo   
+🎓 Cientista e Engenheiro de Dados formado pela PUC-Rio, atualmente envolvido em projetos Python, utilizando YOLO, matplotlib e OpenCV para reconhecimento de imagens e análise de padrões em vídeo   
 🚀 Trabalhando em projetos de Machine Learning e desenvolvimento web com HTML, CSS e JavaScript  
 ⚽ Explorando dados do futebol para entender métricas de desempenho, estratégias e padrões de movimentação em bloco
 
