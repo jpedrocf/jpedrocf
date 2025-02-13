@@ -1,6 +1,6 @@
 # Olá, eu sou João Pedro Faria! 👋  
 
-🔹 Cientista de Dados | Pós-graduação em Analytics, Data Engineering and Machine Learning pela PUC-Rio
+🔹 Cientista de Dados | Pós-graduação em Analytics, Data Engineering and Machine Learning pela PUC-Rio <br>
 🔹 Perfil analítico e estratégico
 🔹 Desenvolvendo Dashboards e contando histórias com dados 
 🔹 Desenvolvendo aplicações em Python e explorando Machine Learning  
