@@ -8,11 +8,14 @@
 
 ## Sobre Mim  
 🎓 Cientista e Engenheiro de Dados formado pela PUC-Rio, atualmente envolvido em projetos Python, utilizando YOLO, matplotlib e OpenCV para reconhecimento de imagens e análise de padrões em vídeo   
-🚀 Trabalhando em projetos de Machine Learning e desenvolvimento web com HTML, CSS e JavaScript  
+🚀 Trabalhando em projetos de Machine Learning e desenvolvimento web 
+📊 Montando apresentações em PowerBI e HTML, utilizando SQL, Excel, Google Sheets
 ⚽ Explorando dados do futebol para entender métricas de desempenho, estratégias e padrões de movimentação em bloco
 
 
-
+## Vamos nos conectar?  
+📧 Email: jpedrouerj@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/joaopedro-faria/) 
 
 
 <!--
