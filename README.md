@@ -6,6 +6,8 @@
 🔹 Desenvolvendo aplicações em Python e explorando Machine Learning  <br>
 🔹 Apaixonado por dados, futebol e computação  <br>
 
+![Distribution Publisher](https://github.com/user-attachments/assets/5af89553-eac8-4649-8817-f177399fe1f1)
+_Gráfico criativo que utilizei para exemplificar a discrepância de jogos AAA x Indie no mercado de games_
 
 ## Sobre Mim  
 🎓 Cientista e Engenheiro de Dados formado pela PUC-Rio <br>
